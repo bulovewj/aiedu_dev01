@@ -1,0 +1,5 @@
+# Supabase 키 — 절대 커밋 금지
+config.js
+
+# macOS
+.DS_Store
